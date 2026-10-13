@@ -1,0 +1,3 @@
+.keys { margin-bottom: 1.5rem }
+.keys + .note { margin-bottom: 1rem }
+.note + .strip { margin-bottom: 1.5rem }
