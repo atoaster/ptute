@@ -2,6 +2,8 @@
 
 Piano lessons that listen. Play on your real piano; ptute hears it through the microphone and lights the next key.
 
+![Practising Twinkle Twinkle: the lit key on the on-screen keyboard, the note to play, the progress strip and the C4 check mark](docs/practice.png)
+
 ```sh
 npm install
 npm run dev      # http://localhost:5173
